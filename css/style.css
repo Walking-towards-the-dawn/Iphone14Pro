@@ -336,7 +336,7 @@
 	.menu {
 		display: block;
 		position: absolute;
-		margin: 210px 0 0 0;
+		margin-top: 210px;
 		padding: 20px 18px;
 		background-color: #272727;
 		right: 15px;
